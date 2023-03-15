@@ -3,5 +3,12 @@ The Official Website of Celeste Red
 
 
 ## Future Plans 🚀:
-    - [ ] 
-    - [x] A completed task  
+- [ ] Mercury
+- [x] Venus
+- [x] Earth (Orbit/Moon)
+- [x] Mars
+- [ ] Jupiter
+- [ ] Saturn
+- [ ] Uranus
+- [ ] Neptune
+- [ ] Comet Haley
