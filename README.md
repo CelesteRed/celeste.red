@@ -3,12 +3,9 @@ The Official Website of Celeste Red
 
 
 ## Future Plans 🚀:
-- [ ] Mercury
-- [x] Venus
-- [x] Earth (Orbit/Moon)
-- [x] Mars
-- [ ] Jupiter
-- [ ] Saturn
-- [ ] Uranus
-- [ ] Neptune
-- [ ] Comet Haley
+- [ ] Base of Website
+    - [ ] Set up Color Pallete
+    - [ ] Set up Layout
+    - [ ] Sketch Design
+    - [ ] Plan out Pages
+- [x] Make git repo
